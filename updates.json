@@ -3,9 +3,9 @@
     "site-mods@naet.local": {
       "updates": [
         {
-          "version": "0.5.0",
-          "update_link": "https://github.com/Shinzor/webinator/releases/download/v0.5.0/webinator-0.5.0.xpi",
-          "update_hash": "sha256:179fa979a7d94f43d5395c9fb71487f1beb683577a590eb872583d01fcc65575"
+          "version": "0.6.0",
+          "update_link": "https://github.com/Shinzor/webinator/releases/download/v0.6.0/webinator-0.6.0.xpi",
+          "update_hash": "sha256:a6ce0d980babdeaa37b1b3930887df2f04c2fd930916e3878802a5ee42f0948f"
         }
       ]
     }
