@@ -1,1 +1,13 @@
-{"addons":{}}
+{
+  "addons": {
+    "site-mods@naet.local": {
+      "updates": [
+        {
+          "version": "0.3.0",
+          "update_link": "https://github.com/Shinzor/webinator/releases/download/v0.3.0/webinator-0.3.0.xpi",
+          "update_hash": "sha256:45f13734e3abdd0bc5d7cb5c592a6450a8e997ce18e585f6dc043b7bfaece87e"
+        }
+      ]
+    }
+  }
+}
